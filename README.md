@@ -1,4 +1,5 @@
 # Cryptocurrency-webhook
+  A discord webhook that displays crypto currency rates on a timed interval(specified in spreadsheet)
 
 ## Requirements
 * A google spreadsheet to maintain and store crypto currency data
@@ -16,3 +17,5 @@
 * Copy the files in the repo
 * Set Triggers(postUpdates: every minute and sendUpdates: every hour)
 * Note: Dont forget to use discord webhook url in places mentioned in code
+
+### And you are good to go!!
